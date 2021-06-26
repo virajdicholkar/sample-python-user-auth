@@ -1,4 +1,5 @@
 from resources.user import *
+from resources.auth import *
 from server.instance import server as app
 
 
